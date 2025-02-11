@@ -22,14 +22,17 @@ Meu nome é Italo Oliveira, sou um Tecnólogo em Análise e Desenvolvimento de S
 
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou entrar em contato comigo. Vamos aprender e construir juntos! 🚀<br>
- <div align="center">
+
+ <div align="center"
 <img hight="300" width="700" alt="GIF" align="center" src="read-me/img/alan-wake-coffee.gif" 
- />
+ </a>
+ 
 <br>
 <br>
 <br>
 
 ---
+
 ### 🤖 Linguagens e Tecnologias 
 
 <img 
@@ -40,6 +43,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -48,6 +52,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -56,6 +61,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -80,6 +86,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="mysql" 
@@ -88,7 +95,6 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-
 <img 
     align="left" 
     alt="Git" 
@@ -108,18 +114,17 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 />
             
 
-<br/>
-<br/>
-
-
+<br>
+<br>
+<br>
 
 ### 📊 GitHub Status
 
-<p>
  <img
   align="left"
   alt="GitHub Stats"
-  height="200"
+  height="150"
+   style="padding-right"
   src="https://github-readme-stats.vercel.app/api?username=ital0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
@@ -127,12 +132,34 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
  <img
   align="left"
   alt="GitHub Stats"
-  height="200"
+  height="150"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ital0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_counter=9"
 />
 
+<br>
+<br>
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="_italo0liveira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+           alt="ital0liveira" height="30" width="40" /></a>
+<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="read-me/img/Sem Título-1.png" alt="_italo0liveira" height="" width="48" /></a>
 </p>
 
+
+---
+
+
+<h3> it's not a loop, it's a spiral.</3>
+<p align = "center">
+<a img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
+          
+
+
+ 
 
 
 

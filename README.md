@@ -7,7 +7,7 @@
 </div>
 
  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="img\download (1).gif">
+<img hight="300" width="700" alt="GIF" align="center" src="read-me/img/download (1).gif">
 </div>
 <br>
 <br>
@@ -23,14 +23,14 @@ Meu nome é Italo Oliveira, sou um Tecnólogo em Análise e Desenvolvimento de S
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou entrar em contato comigo. Vamos aprender e construir juntos! 🚀<br>
  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="img\alan-wake-coffee.gif"
+<img hight="300" width="700" alt="GIF" align="center" src="read-me/img/alan-wake-coffee.gif" 
+ />
 <br>
 <br>
 <br>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias 
 
 <img 
     align="left" 
@@ -111,40 +111,32 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 <br/>
 <br/>
 
----
 
 
-### 📊 GitHub Staus
-<br>
+### 📊 GitHub Status
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ital0liveira&layout=donut-vertical)](https://github.com/Ital0liveira/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ital0liveira)](https://github.com/Ital0liveira/github-readme-stats)
-
-<br>
-
-
----
-
+<p>
+ <img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=ital0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
 
+ <img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ital0liveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_counter=9"
+/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="_italo0liveira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
-           alt="ital0liveira" height="30" width="40" /></a>
-<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="img\Sem Título-1.png" alt="_italo0liveira" height="" width="48" /></a>
 </p>
 
 
----
 
 
-<h3> it's not a loop, it's a spiral.</3>
-<p align = "center">
-<a img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
-          
+
 
 
  

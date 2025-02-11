@@ -33,7 +33,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
+<h3 align="left">🤖 Linguagens e Tecnologias </h3>
 
 <img 
     align="left" 
@@ -118,7 +118,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 <br>
 <br>
 
-### 📊 GitHub Status
+<h3 align="left">📊 GitHub Status</h3>
 
  <img
   align="left"
@@ -139,6 +139,16 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+
+
+
+ 
+ ---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -148,6 +158,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
            alt="ital0liveira" height="30" width="40" /></a>
 <a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="read-me/img/Sem Título-1.png" alt="_italo0liveira" height="" width="48" /></a>
 </p>
+
 
 
 ---

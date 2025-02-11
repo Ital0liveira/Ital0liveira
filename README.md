@@ -7,9 +7,9 @@
 </div>
 
  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="read-me/img/download (1).gif">
+<img hight="300" width="700" alt="GIF" align="center" src="read-me/img/download (1).gif"  
+ </a>
 
-</div>
 <br>
 <br>
 <br>
@@ -24,7 +24,7 @@ Meu nome é Italo Oliveira, sou um Tecnólogo em Análise e Desenvolvimento de S
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou entrar em contato comigo. Vamos aprender e construir juntos! 🚀<br>
 
- <div align="center"
+ <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="read-me/img/alan-wake-coffee.gif" 
  </a>
  

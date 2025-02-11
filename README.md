@@ -2,7 +2,7 @@
 <h1 align="center">"Além da sombra com a qual você se contenta, há um milagre iluminado."</h1>
 
   <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/1a066e1e03abe225a37be9b68d0b0aba/68a72a53d9c6282c-dc/s540x810/44a63f2f701465b707f90c3e168423f02ef0a892.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUWO-5enUqbFg874SOxqDvl1CEzm_HVVvVEK9kFHKgJC9NkjBMWhKlSBi5PUlq9zGyuZQW2DbzA_P9Oc1I32fwus7hYcW_g1X4aoVJdOte6rCPqmQ-noLrOx5E4yKmu6WGaXng8nR0GDi5mm9FGWMcBnUCTb9BKZ_yjKu8-rcuU5j-abyPNZ8n7aD6eY/s533/giphy.gif">
 </div>
 <br>
 <br>
@@ -54,5 +54,5 @@
 <a href="https://twitter.com/_italo0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_italo0liveira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ital0liveira" height="30" width="40" /></a>
 <a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_italo0liveira" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@solasof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solasof" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/solasof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solasof" height="30" width="40" /></a>
 </p>

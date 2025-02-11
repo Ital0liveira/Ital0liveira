@@ -1,26 +1,150 @@
-## 🔦 Italo Oliveira 
-<h1 align="center">"Além da sombra com a qual você se contenta, há um milagre iluminado."</h1>
+# 🔦 Italo Oliveira 
 
-  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUWO-5enUqbFg874SOxqDvl1CEzm_HVVvVEK9kFHKgJC9NkjBMWhKlSBi5PUlq9zGyuZQW2DbzA_P9Oc1I32fwus7hYcW_g1X4aoVJdOte6rCPqmQ-noLrOx5E4yKmu6WGaXng8nR0GDi5mm9FGWMcBnUCTb9BKZ_yjKu8-rcuU5j-abyPNZ8n7aD6eY/s533/giphy.gif">
+**`Desenvolvedor FullStack`**<br>
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BOLD&weight=800&size=31&pause=1000&color=7F9F95&center=true&width=435&lines=MY+NAME+IS;ITALO+OLIVEIRA;I'M+A+DEV)](https://git.io/typing-svg)
+</div>
+
+ <div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="img\download (1).gif">
 </div>
 <br>
 <br>
 <br>
 
-- 👨‍🎓 Estudei no Instituto Federal de Educação, Ciência e Tecnologia de Roraima - Campus Boa Vista
-- 👨‍💻 Tecnólogo em Analise e Desenvolvimento de Sistemas compartilhando minha jornada e meus aprendizados na programação
-- ⚡ Fun fact **Fã de games e Viciado na Franquia Alan Wake**
-- 📫 How to reach me **italooliveira_0612_@outlook.com**
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BOLD&weight=800&size=31&pause=1000&color=9F2727&center=true&width=435&lines=%22Al%C3%A9m+da+sombra+com+a+;+qual+voc%C3%AA+se+contenta%2C+;h%C3%A1+um+milagre+iluminado.%22)](https://git.io/typing-svg)
+</div>
+
+Meu nome é Italo Oliveira, sou um Tecnólogo em Análise e Desenvolvimento de Sistemas formado pelo Instituto Federal de Educação, Ciência e Tecnologia de Roraima - Campus Boa Vista. Atualmente, tenho 22 anos e estou em constante evolução na minha jornada como desenvolvedor.<br> 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou entrar em contato comigo. Vamos aprender e construir juntos! 🚀<br>
+ <div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="img\alan-wake-coffee.gif"
+<br>
+<br>
+<br>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="express" 
+    title="express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+align="left"
+alt= "Nodejs"
+title= "Nodejs"
+width="30px"
+style="padding-right: 10px"
+src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+            
+
+<br/>
+<br/>
+
+---
+
+
+### 📊 GitHub Staus
+<br>
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ital0liveira&layout=donut-vertical)](https://github.com/Ital0liveira/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ital0liveira)](https://github.com/Ital0liveira/github-readme-stats)
+
+<br>
+
+
+---
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_italo0liveira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ital0liveira" height="30" width="40" /></a>
-<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_italo0liveira" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/solasof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solasof" height="30" width="40" /></a>
+<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="_italo0liveira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+           alt="ital0liveira" height="30" width="40" /></a>
+<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="img\Sem Título-1.png" alt="_italo0liveira" height="" width="48" /></a>
 </p>
+
+
+---
+
+
+<h3> it's not a loop, it's a spiral.</3>
+<p align = "center">
+<a img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
+          
+
+
+ 

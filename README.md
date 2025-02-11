@@ -2,28 +2,28 @@
 <h1 align="center">"Além da sombra com a qual você se contenta, há um milagre iluminado."</h1>
 
   <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://i.pinimg.com/originals/ad/27/3f/ad273f146661e6882011379e06573692.gif](https://media.giphy.com/media/C2thlkG6pUTNrRpTAE/giphy.gif?cid=790b7611f9zb6rcy9n0aomozpn78o5gs6qsxvif4y4twrhen&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/1a066e1e03abe225a37be9b68d0b0aba/68a72a53d9c6282c-dc/s540x810/44a63f2f701465b707f90c3e168423f02ef0a892.gif">
 </div>
 <br>
 <br>
 <br>
 
-- 👨‍🎓 Estudei no Instituto Federal de Educação, Ciência e Tecnologia de Roraima - Campus Boa Vista**<br>
-- 👨‍💻 Tecnólogo em Analise e Desenvolvimento de Sistemas compartilhando minha jornada e meus aprendizados na programação**
+- 👨‍🎓 Estudei no Instituto Federal de Educação, Ciência e Tecnologia de Roraima - Campus Boa Vista
+- 👨‍💻 Tecnólogo em Analise e Desenvolvimento de Sistemas compartilhando minha jornada e meus aprendizados na programação
 - ⚡ Fun fact **Fã de games e Viciado na Franquia Alan Wake**
 - 📫 How to reach me **italooliveira_0612_@outlook.com**
 
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@solasof">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich](https://www.youtube.com/@solasof)">
+    <a href="https://www.youtube.com/@solasof">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 

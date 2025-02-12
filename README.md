@@ -154,11 +154,11 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="_italo0liveira" height="30" width="40" /></a>
+<a href="https://twitter.com/_italo0liveira" target="blank"><img align="center"  src="read-me/img/X icon.png"  alt="_italo0liveira" height="7%" width="7%" /></a>
 <a href="https://linkedin.com/in/ital0liveira" target="blank"><img align="center" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
-           alt="ital0liveira" height="30" width="40" /></a>
-<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="read-me/img/Sem Título-1.png" alt="_italo0liveira" height="" width="48" /></a>
+            <img src="read-me/img/linkedln icon.png"
+           alt="ital0liveira" height="7%" width="7%" /></a>
+<a href="https://instagram.com/_italo0liveira" target="blank"><img align="center" src="read-me/img/insta icon.png" alt="_italo0liveira" height="7%" width="7%" /></a>
 </p>
 
 
@@ -167,8 +167,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 
 
 <h3> it's not a loop, it's a spiral.</3>
-<p align = "center">
-<a img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
+
           
 
 

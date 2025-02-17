@@ -149,7 +149,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 
 
  
- ---
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -163,7 +163,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 
 
 
----
+
 
 
 <h3> it's not a loop, it's a spiral.</3>

@@ -122,13 +122,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-or
 ---
 <h3 align="left">📊 GitHub Status</h3>
 
- <img
-  align="left"
-  alt="GitHub Stats"
-  height="150"
-   style="padding-right"
-  src="https://github-readme-stats.vercel.app/api?username=ital0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+
 
 
  <img

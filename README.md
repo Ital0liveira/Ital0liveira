@@ -53,32 +53,6 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="express" 
-    title="express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 <img 
     align="left" 
     alt="Bootstrap"
@@ -87,14 +61,6 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
 <img 
     align="left" 
@@ -105,14 +71,6 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-align="left"
-alt= "Nodejs"
-title= "Nodejs"
-width="30px"
-style="padding-right: 10px"
-src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
             
 
 <br>
